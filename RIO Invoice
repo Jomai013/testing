@@ -1,4 +1,5 @@
 /* testing for GitHUb*/
+/for testing pull request/
 
 WITH MAIN AS(
 SELECT Distinct
