@@ -1,3 +1,5 @@
+/* testing for GitHUb*/
+
 WITH MAIN AS(
 SELECT Distinct
 
